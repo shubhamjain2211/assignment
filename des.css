@@ -1,0 +1,100 @@
+body{
+  background-color: black;
+}
+#box-design{
+  background-color: #323232;
+  margin-left: 40px;
+  height:100px;
+  width:1202px;
+}
+#tit{
+  color:white;
+  position: absolute;
+  left: 100px;
+  top: 10px;
+}
+
+ul{
+ margin: 0;
+ padding: 0;
+ overflow: hidden;
+ background-color: #333;
+}
+li{
+  float:left;
+  display: block;//Removing bullets//
+  text-align: center;
+  padding: 14px 16px;
+}
+li a{
+  display: block;  border: 1px solid;
+  color: white;
+  text-align: center;
+}
+#bix
+{
+  background-color:white;
+  height:1100px;
+  width:1028px;
+  padding: 0px 160px 0px 10px;
+  margin-left:43px;
+}
+#blk_box{
+  background-color:#323232;
+  height:320px;
+  width:1055px;
+  margin:30px;
+  padding:0px 50px 0px 10px
+}
+#num{
+  font-size:30px;
+  color: white;
+  margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 140px;
+}
+#jim{
+  background-color: #D3D3D3;
+  padding:15px 60px 10px 10px;
+  margin-left:31px;
+  width:1048px;
+}
+#lat{
+text-align: justify;
+  margin-left: 30px;
+}
+.grid {
+ display:grid;
+ grid-template-columns:auto auto auto auto;
+ margin-left:50px;
+}
+.chix
+{
+    border: 1px solid black ;
+    height:240px;
+    width:240px;
+    text-align: center;
+    padding-top:190px;
+    color: white;
+    background-color: #323232;
+    margin-right:32px;
+}
+.chix2{
+  height:30px;
+  width:242px;
+  text-align: center;
+  background-color: #D3D3D3;
+  margin-right:5px;
+}
+#fot{
+background-color: #323232;
+height:50px;
+width:1199px;
+margin-left:-10px;
+color: white;
+}
+}
+hr{
+  right:30px;
+}
